@@ -51,9 +51,6 @@ This repository contains only the source scripts. The following assets must be p
 | **ARDUnity** | Unity Asset Store | Arduino ↔ Unity serial communication |
 | **Steel Dagger** | Unity Asset Store | Threat stimulus prop (GSR scene) |
 | **BomJ MeatHammer** | Unity Asset Store | Threat stimulus prop (GSR scene) |
-| **Elven Long Bow + Sci-Fi Crossbow** | Unity Asset Store | Threat stimulus props (GSR scene) |
-| **Simple Low Poly Nature / Ground Materials FD** | Unity Asset Store | Environment background |
-| **SimplePoly Stadium Kit** | Unity Asset Store | Environment background |
 
 > The core therapy functionality (hand tracking, haptics, biofeedback) requires Leap Motion Core Assets, LM Realistic Hands, and ARDUnity. The AssetStore props are only used in the GSR threat scene and can be substituted freely.
 
