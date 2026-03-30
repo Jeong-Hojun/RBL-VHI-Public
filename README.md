@@ -4,7 +4,7 @@
 
 A Unity-based clinical rehabilitation application for stroke patients, integrating Virtual Hand Illusion (VHI) therapy with Leap Motion hand tracking, Arduino-controlled haptic stimulation, and EEG/GSR biofeedback.
 
-![MI Guidance System Screenshot](docs/screenshot.png)
+![MI Guidance System Screenshot](screenshot.png)
 
 ---
 
