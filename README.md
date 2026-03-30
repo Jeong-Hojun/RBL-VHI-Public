@@ -40,6 +40,23 @@ A Unity-based clinical rehabilitation application for stroke patients, integrati
 - **Unity 2018.4.26f1**
 - Windows 10 or later
 
+### Third-Party Assets (must be installed separately)
+
+This repository contains only the source scripts. The following assets must be purchased/downloaded and installed manually into the project before it will compile:
+
+| Asset | Source | Purpose |
+|-------|--------|---------|
+| **Leap Motion Core Assets** | [Ultraleap Developer Site](https://developer.leapmotion.com/) (free) | Hand tracking SDK |
+| **LM Realistic Hands** | Unity Asset Store | High-fidelity hand models and textures |
+| **ARDUnity** | Unity Asset Store | Arduino ↔ Unity serial communication |
+| **Steel Dagger** | Unity Asset Store | Threat stimulus prop (GSR scene) |
+| **BomJ MeatHammer** | Unity Asset Store | Threat stimulus prop (GSR scene) |
+| **Elven Long Bow + Sci-Fi Crossbow** | Unity Asset Store | Threat stimulus props (GSR scene) |
+| **Simple Low Poly Nature / Ground Materials FD** | Unity Asset Store | Environment background |
+| **SimplePoly Stadium Kit** | Unity Asset Store | Environment background |
+
+> The core therapy functionality (hand tracking, haptics, biofeedback) requires Leap Motion Core Assets, LM Realistic Hands, and ARDUnity. The AssetStore props are only used in the GSR threat scene and can be substituted freely.
+
 ### Hardware
 - **Leap Motion Controller** — hand position and gesture tracking
 - **Arduino-based haptic device** — finger vibration stimulator (default: COM8, 115200 baud)
