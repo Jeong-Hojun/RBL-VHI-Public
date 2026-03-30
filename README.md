@@ -27,7 +27,6 @@ A Unity-based clinical rehabilitation application for stroke patients, integrati
 |-------|-------------|
 | `VHI_CHAMC_GSR_0809` | GSR (galvanic skin response) biofeedback variant |
 | `VHI_CHAMC_EEG_0816` | EEG (brainwave) biofeedback variant |
-| `VHI_for_NF_250311` | Latest neurofeedback version |
 | `VHI_SKKU_1031_SHAM` | Sham (placebo) control condition for clinical trials |
 | `Main_ver2_CHAMC` | Main therapy scene |
 | `PreScreen_ver.1.4_1030` | Pre-screening and calibration |
